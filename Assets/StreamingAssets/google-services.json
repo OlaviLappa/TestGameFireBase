@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250318306160",
+    "firebase_url": "https://ballgameremotefirebaseconfig-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ballgameremotefirebaseconfig",
+    "storage_bucket": "ballgameremotefirebaseconfig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250318306160:android:c16e7d97c118f1f345adb5",
+        "android_client_info": {
+          "package_name": "ball.game.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250318306160-i5tig1n701bbfvc8qc774k11osbqs9gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Tqe82WyxLnqsEig0Hd_sOjYRxKnxZUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250318306160-i5tig1n701bbfvc8qc774k11osbqs9gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
